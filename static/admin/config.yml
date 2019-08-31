@@ -1,7 +1,6 @@
 backend:
-  name: github
-  repo: vinton/gatsby-personal-starter-blog
-   
+  name: git-gateway
+
 media_folder: static/assets
 public_folder: assets
 
