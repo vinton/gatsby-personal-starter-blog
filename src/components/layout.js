@@ -33,7 +33,7 @@ class Layout extends React.Component {
           </Link>
         </h1>
       )
-    } else if (location.pathname === blogPath){
+    } else if (location.pathname === tutorialPath){
       header = (
         <h1
           style={{
